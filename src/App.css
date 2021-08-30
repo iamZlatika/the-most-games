@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+.input-bar {
+  display: flex;
+  align-items: flex-start;
+}
+
+.submit-button {
+  height: 25px;
+  width: 120px;
+  font-size: 14px;
+}
+.alert {
+  height: 20px;
+  text-align: center;
+  color: red;
+  line-height: 20px;
+  width: 80%;
+  padding: 0 133px 0 177px;
+}
